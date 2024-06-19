@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AzureAIDocumentIntelligence/.vs/AzureAIDocumentIntelligence
+/AzureAIDocumentIntelligence/bin/Debug/net8.0
+/AzureAIDocumentIntelligence/obj
