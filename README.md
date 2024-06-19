@@ -1,5 +1,5 @@
 # AzureAIDocumentIntelligence
-Azure AI Document Intelligence, to extract key-value pairs from documents. Combine Optical Character Recognition (OCR) capabilities with deep learning models to extract key-value pairs, selection marks, and entities from most types of documents.
+Azure AI Document Intelligence, to extract key-value pairs from documents using .Net and C#. Combine Optical Character Recognition (OCR) capabilities with deep learning models to extract key-value pairs, selection marks, and entities from most types of documents.
 
 # Install Nuget Package
 NuGet\Install-Package Azure.AI.DocumentIntelligence -Version 1.0.0-beta.2
